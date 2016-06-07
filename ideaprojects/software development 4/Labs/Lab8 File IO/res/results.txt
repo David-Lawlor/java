@@ -1,0 +1,3 @@
+The maximum value is 15
+The minimum value is 11
+The average temperature is 13

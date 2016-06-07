@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Abstract Classes Examples/Abstract Classes Examples.iml" filepath="$PROJECT_DIR$/Software Development 3/Sample Programs/Abstract Classes Examples/Abstract Classes Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Labs/Lab11/Arraylists.iml" filepath="$PROJECT_DIR$/Software Development 3/Labs/Lab11/Arraylists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Labs/Lab14/Checked Exception Handling.iml" filepath="$PROJECT_DIR$/Software Development 3/Labs/Lab14/Checked Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/In Class/Class Exercise Static Code/Class Exercise Static Code.iml" filepath="$PROJECT_DIR$/Software Development 3/In Class/Class Exercise Static Code/Class Exercise Static Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Sample Programs/CompositionExample/CompositionExample.iml" filepath="$PROJECT_DIR$/Software Development 3/Sample Programs/CompositionExample/CompositionExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Labs/Lab1/Constructors.iml" filepath="$PROJECT_DIR$/Software Development 3/Labs/Lab1/Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Labs/Lab 15/Custom Exceptions.iml" filepath="$PROJECT_DIR$/Software Development 3/Labs/Lab 15/Custom Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Sample Programs/EventHandlingOptions/EventHandlingOptions.iml" filepath="$PROJECT_DIR$/Software Development 3/Sample Programs/EventHandlingOptions/EventHandlingOptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/In Class/ExceptionsPart2InClassExerciseSolution/ExceptionsPart2InClassExerciseSolution.iml" filepath="$PROJECT_DIR$/Software Development 3/In Class/ExceptionsPart2InClassExerciseSolution/ExceptionsPart2InClassExerciseSolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Sample Programs/ExceptionsPart2SamplePrograms/ExceptionsPart2SamplePrograms.iml" filepath="$PROJECT_DIR$/Software Development 3/Sample Programs/ExceptionsPart2SamplePrograms/ExceptionsPart2SamplePrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/In Class/In Class Poly Exercise/In Class Poly Exercise.iml" filepath="$PROJECT_DIR$/Software Development 3/In Class/In Class Poly Exercise/In Class Poly Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/In Class/In-Class Exercise Arrays/In-Class Exercise Arrays.iml" filepath="$PROJECT_DIR$/Software Development 3/In Class/In-Class Exercise Arrays/In-Class Exercise Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/In Class/In-ClassExercisetoString()/In-ClassExercisetoString().iml" filepath="$PROJECT_DIR$/Software Development 3/In Class/In-ClassExercisetoString()/In-ClassExercisetoString().iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Labs/Lab2/Inheritance.iml" filepath="$PROJECT_DIR$/Software Development 3/Labs/Lab2/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Labs/Lab3/Inheritance2.iml" filepath="$PROJECT_DIR$/Software Development 3/Labs/Lab3/Inheritance2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Interface Examples/Interface Examples.iml" filepath="$PROJECT_DIR$/Software Development 3/Sample Programs/Interface Examples/Interface Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Labs/Lab7/Interfaces.iml" filepath="$PROJECT_DIR$/Software Development 3/Labs/Lab7/Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Interfaces Polymorphism Examples/Interfaces Polymorphism Examples.iml" filepath="$PROJECT_DIR$/Software Development 3/Sample Programs/Interfaces Polymorphism Examples/Interfaces Polymorphism Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Interfaces for Reuse Example/Interfaces for Reuse Example.iml" filepath="$PROJECT_DIR$/Software Development 3/Sample Programs/Interfaces for Reuse Example/Interfaces for Reuse Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Labs/Lab8/Interfaces2.iml" filepath="$PROJECT_DIR$/Software Development 3/Labs/Lab8/Interfaces2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/In Class/Lab 12 inClass/Lab 12 inClass.iml" filepath="$PROJECT_DIR$/Software Development 3/In Class/Lab 12 inClass/Lab 12 inClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/In Class/Lab11 in class/Lab11 in class.iml" filepath="$PROJECT_DIR$/Software Development 3/In Class/Lab11 in class/Lab11 in class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/In Class/Lab9 InClass/Lab9 InClass.iml" filepath="$PROJECT_DIR$/Software Development 3/In Class/Lab9 InClass/Lab9 InClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Labs/Lab4/Object Arrays.iml" filepath="$PROJECT_DIR$/Software Development 3/Labs/Lab4/Object Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Labs/Lab6/Object Composition.iml" filepath="$PROJECT_DIR$/Software Development 3/Labs/Lab6/Object Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Labs/Lab9/Polymorphism, Inheritance, Object Casting.iml" filepath="$PROJECT_DIR$/Software Development 3/Labs/Lab9/Polymorphism, Inheritance, Object Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Labs/Lab5/Polymorphism, Object Casting.iml" filepath="$PROJECT_DIR$/Software Development 3/Labs/Lab5/Polymorphism, Object Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Sample Programs/PolymorphismExamples/PolymorphismExamples.iml" filepath="$PROJECT_DIR$/Software Development 3/Sample Programs/PolymorphismExamples/PolymorphismExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Labs/Lab 16/Sample CA.iml" filepath="$PROJECT_DIR$/Software Development 3/Labs/Lab 16/Sample CA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/In Class/Sample Programs/Sample Programs.iml" filepath="$PROJECT_DIR$/Software Development 3/In Class/Sample Programs/Sample Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Sample Programs Events/Sample Programs Events.iml" filepath="$PROJECT_DIR$/Software Development 3/Sample Programs/Sample Programs Events/Sample Programs Events.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Sample Programs Swing/Sample Programs Swing.iml" filepath="$PROJECT_DIR$/Software Development 3/Sample Programs/Sample Programs Swing/Sample Programs Swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Sample Programs/SamplePrograms/SamplePrograms.iml" filepath="$PROJECT_DIR$/Software Development 3/Sample Programs/SamplePrograms/SamplePrograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Sample Programs/SamplePrograms toString/SamplePrograms toString.iml" filepath="$PROJECT_DIR$/Software Development 3/Sample Programs/SamplePrograms toString/SamplePrograms toString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Sample Programs/SampleProgramsPolymorphism/SampleProgramsPolymorphism.iml" filepath="$PROJECT_DIR$/Software Development 3/Sample Programs/SampleProgramsPolymorphism/SampleProgramsPolymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Static Sample Programs/Static Sample Programs.iml" filepath="$PROJECT_DIR$/Software Development 3/Sample Programs/Static Sample Programs/Static Sample Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Labs/Lab17/Swing intro.iml" filepath="$PROJECT_DIR$/Software Development 3/Labs/Lab17/Swing intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/Labs/Lab13/Unchecked Exception Handling.iml" filepath="$PROJECT_DIR$/Software Development 3/Labs/Lab13/Unchecked Exception Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/In Class/gui in class/gui in class.iml" filepath="$PROJECT_DIR$/Software Development 3/In Class/gui in class/gui in class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software Development 3/In Class/inClassWeek2/inClassWeek2.iml" filepath="$PROJECT_DIR$/Software Development 3/In Class/inClassWeek2/inClassWeek2.iml" />
+    </modules>
+  </component>
+</project>

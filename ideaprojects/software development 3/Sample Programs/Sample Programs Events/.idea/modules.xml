@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExamplesEventHandling/2.ExamplesEventHandling.iml" filepath="$PROJECT_DIR$/ExamplesEventHandling/2.ExamplesEventHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamplesLayoutManager/3.ExamplesLayoutManager.iml" filepath="$PROJECT_DIR$/ExamplesLayoutManager/3.ExamplesLayoutManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamplesPanels/4.ExamplesPanels.iml" filepath="$PROJECT_DIR$/ExamplesPanels/4.ExamplesPanels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamplesItemListeners/6.ExamplesItemListeners.iml" filepath="$PROJECT_DIR$/ExamplesItemListeners/6.ExamplesItemListeners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComponentsExamples/ComponentsExamples.iml" filepath="$PROJECT_DIR$/ComponentsExamples/ComponentsExamples.iml" />
+    </modules>
+  </component>
+</project>
+

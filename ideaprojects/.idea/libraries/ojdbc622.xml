@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ojdbc62">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Software Development 4/Labs/CASample2015Skeleton/bin/lib/ojdbc6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

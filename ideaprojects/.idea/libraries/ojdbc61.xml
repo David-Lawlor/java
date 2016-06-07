@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ojdbc61">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Software Development 4/Sample programs/samplepgmSeqPKFK/samplepgmSeqPKFK/bin/lib/ojdbc6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

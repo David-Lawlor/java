@@ -1,0 +1,3 @@
+The minimum pressure reading is 11
+The maximum pressure reading is 15
+The average pressure reading is 13

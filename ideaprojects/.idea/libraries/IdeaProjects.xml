@@ -1,0 +1,68 @@
+<component name="libraryTable">
+  <library name="IdeaProjects">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Software Development 3/HCD/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/In Class/Class Exercise Static Code/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/In Class/ExceptionsPart2InClassExerciseSolution/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/In Class/GUI Excepton handling/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/In Class/In Class Poly Exercise/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/In Class/In-Class Exercise Arrays/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/In Class/In-ClassExercisesolJDialog/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/In Class/In-ClassExercisetoString()" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/In Class/InClassexerciseSol/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/In Class/Lab 12 inClass/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/In Class/Lab11 in class/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/In Class/Lab9 InClass/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/In Class/gui in class/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/In Class/inClassWeek2/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Labs/Lab 15/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Labs/Lab 16/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Labs/Lab11/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Labs/Lab13/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Labs/Lab14/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Labs/Lab17/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Labs/Lab18/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Labs/Lab19/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Labs/Lab1/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Labs/Lab2/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Labs/Lab3/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Labs/Lab4/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Labs/Lab5/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Labs/Lab6/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Labs/Lab7/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Labs/Lab8/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Labs/Lab9/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/SQAT/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Abstract Classes Examples/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/CompositionExample/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/EventHandlingOptions/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/ExceptionsPart2SamplePrograms/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/In-ClassExercisesolJDialog/In-ClassExercisesolJDialog/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/In-ClassExercisesolJDialog/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Interface Examples/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Interfaces Polymorphism Examples/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Interfaces for Reuse Example/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Joption pane sample/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/PolymorphismExamples/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Sample Programs Events/ExamplesEventHandling/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Sample Programs Events/ExamplesItemListeners/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Sample Programs Events/ExamplesLayoutManager/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Sample Programs Events/ExamplesPanels/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Sample Programs Swing/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/SamplePrograms toString/Account" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/SampleProgramsPolymorphism/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 3/Sample Programs/Static Sample Programs/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 4/In class/In class Week2/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 4/Labs/Lab1/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 4/Labs/Lab2/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 4/In class/InClassMovieSol/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 4/Sample programs/JDBC Examples/src" />
+      <root url="file://$PROJECT_DIR$/Software Development 4/Sample programs/AdvancedResultSet/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$" recursive="false" />
+  </library>
+</component>
